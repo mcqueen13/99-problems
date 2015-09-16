@@ -26,3 +26,4 @@ puts bottles.to_s + bot + lyric1 + lyric2 + ';'
 puts bottles.to_s + bot + lyric1 + '.'
 puts lyric3 + x + lyric4
 puts 'No more' + bots + lyric1 + lyric2 + '.'
+puts 'Hammerschmitt'
